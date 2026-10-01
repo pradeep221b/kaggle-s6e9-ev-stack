@@ -1,0 +1,7 @@
+data/*
+!data/.gitkeep
+outputs/**/*.npy
+submissions/*.csv
+__pycache__/
+*.log
+catboost_info/
